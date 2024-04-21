@@ -1,4 +1,3 @@
-// Created by Romashkin Maksim MK-202
 
 #include <SFML/Graphics.hpp>
 #include <thread>
